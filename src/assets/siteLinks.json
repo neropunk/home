@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "192.168.0.105:blog"
+    "link": "192.168.0.105/blog"
   },
   {
     "icon": "Cloud",
